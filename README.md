@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/giuseppe-ricciardi-24b5b020a/](https://www.linkedin.com/in/giuseppe-ricciardi-24b5b020a/)
 
-- 🎯 Passionate about artificial intelligence, computer science and curious about what I don't know. In my free time, I like traveling and playing strategy games.
+- 🎯 Passionate about artificial intelligence, computer science and curious about everything I don't know. In my free time, I like traveling and playing strategy games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
