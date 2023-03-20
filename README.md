@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gricciardi00&label=Profile%20views&color=0e75b6&style=flat" alt="gricciardi00" /> </p>
 
-- 📚 Currently studying the master's degree in computer engineering at the University of Parma **ML, CV, Parallel Computing and much more**
+- 📚 Currently studying the master's degree in computer engineering at the University of Parma... **ML, CV, Parallel Computing and much more**
 
 - 📫 How to reach me: **ricciardi.giuseppe00@gmail.com**
 
