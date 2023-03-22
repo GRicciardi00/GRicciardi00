@@ -1,6 +1,5 @@
-<h3 align="center">Computer engineer student from Italy 🇮🇹 </h3>
+<h3 align="center">Computer engineer MSc from Italy 🇮🇹 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gricciardi00&label=Profile%20views&color=0e75b6&style=flat" alt="gricciardi00" /> </p>
 
 - 📚 Currently studying for my master's degree in computer engineering at the University of Parma... **ML, CV, Parallel Computing and much more**
 
