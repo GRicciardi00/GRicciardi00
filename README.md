@@ -1,7 +1,7 @@
 <h3 align="center">Computer engineer MSc from Italy 🇮🇹 </h3>
 
 
-- 📚 Currently studying for my master's degree in computer engineering at the University of Parma... **ML, CV, Parallel Computing and much more**
+- 📚 Currently studying for my master's degree in computer engineering at the University of Parma and Mechatronics, Computer Vision, Artificial Intelligence at the University of Paris Saclay... **ML, CV, Parallel Computing and much more**
 
 - 📫How to reach me: **ricciardi.giuseppe00@gmail.com**
 
