@@ -5,7 +5,7 @@
 
 - 📫How to reach me: **ricciardi.giuseppe00@gmail.com**
 
-- 📄 Know about my experiences: **[Linkedin](https://www.linkedin.com/in/giuse-ricc/)**
+- 📄 Know about my experiences: **[Linkedin](https://www.linkedin.com/in/giuse-ricc)**
 
 - 🎯 Passionate about artificial intelligence, computer science and curious about everything I don't know. In my free time, I like traveling and playing strategy games.
 <p align="left">
