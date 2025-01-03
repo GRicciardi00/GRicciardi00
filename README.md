@@ -1,7 +1,8 @@
 <h3 align="center">Computer engineer MSc from Italy 🇮🇹 </h3>
 
+- 🛠️ Currently working as junior researcher at MP Dream Group, San Raffaele Hospital, Milan.
 
-- 📚 Currently studying for my master's double degree in computer engineering at the University of Parma and Mechatronics, Computer Vision, Artificial Intelligence at the University of Paris Saclay... **ML, CV, Parallel Computing and much more**
+- 📚 master's in computer engineering at the University of Parma and Mechatronics, Computer Vision, Artificial Intelligence at the University of Paris Saclay... **ML, CV, Parallel Computing and much more**
 
 - 📫How to reach me: **ricciardi.giuseppe00@gmail.com**
 
