@@ -1,0 +1,21 @@
+NOTE per Neural Networks Unveiled:
+From Perceptrons to Transformers
+
+Nell’esempio abbiamo come primo elemento 164.98 e 24.25
+Il 164.98 sminchierebbe i pesi perchè troppo grande per la media pesata -> Applico normalizzazione
+
+
+RECURRENT NEURAL NETWORKS
+
+Come parlano i chatbot/etc. ? SEQUENCE MODELING -> Sequence: insieme di parole (testuali o vocali), immagini (per un video)
+Introduciamo il concetto di tempo, si introduce uno stato di memoria.
+Lo stato successivo dipende non solo dagli input X ma anche da un vettore che rappresenta lo stato precedente (in maniera ricorsiva, stato n dipende da tutti gli stati n-1).
+
+Encoder – decoder: introdotti perchè la semplice RNN non è abbastanza. (google translate)
+Encoder: testo in inglese in input, genera embedding che descrive la frase
+Decoder: prende in input l’embedding dell’encoder e poi lavora utilizzando un token speciale start allo stato iniziale x0.
+BERT -> usato per encoding
+Transformer
+Introduzione del concetto di attention: self attention e cross attention.
+Self attention -> modifico stato di embedding,
+
