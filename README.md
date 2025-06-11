@@ -1,6 +1,6 @@
 <h3 align="center">Computer engineer MSc from Italy 🇮🇹 </h3>
 
-- 🛠️ Currently working as junior researcher at MP Dream Group, San Raffaele Hospital, Milan.
+- 🛠️ Currently working as research Fellowship at MP Dream Group, San Raffaele Hospital, Milan.
 
 - 📚 master's in computer engineering at the University of Parma and Mechatronics, Computer Vision, Artificial Intelligence at the University of Paris Saclay... **ML, CV, Parallel Computing and much more**
 
