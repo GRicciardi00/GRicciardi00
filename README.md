@@ -1,16 +1,12 @@
-<h3 align="center">Computer engineer MSc from Italy 🇮🇹 </h3>
+<h3 align="center"> MSCA PhD Student from Italy 🇮🇹 </h3>
 
-- 🛠️ Currently working as research Fellowship at MP Dream Group, San Raffaele Hospital, Milan.
+- 🔬 PhD student @ IRB, [Infection and Immunity group](https://github.com/Infection-and-Immunity-Group)
 
-- 📚 master's in computer engineering at the University of Parma and Mechatronics, Computer Vision, Artificial Intelligence at the University of Paris Saclay... **ML, CV, Parallel Computing and much more**
+- AI • Computer Vision • Biomedical research
 
-- 📫How to reach me: **ricciardi.giuseppe00@gmail.com**
+- 🎓 MSc in Computer engineer at University of Parma and Paris-Saclay
 
-- 📄 Know about my experiences: **[Linkedin](https://www.linkedin.com/in/giuse-ricc)**
-
-- 🎯 Passionate about artificial intelligence, computer science and curious about everything I don't know. In my free time, I like traveling and playing strategy games.
-<p align="left">
-</p>
+- 📫 use my [LinkedIn](https://it.linkedin.com/in/giuse-ricc)
 
 <h3 align="left">Languages and Tools:</h3>
 
