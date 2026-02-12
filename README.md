@@ -4,8 +4,6 @@
 
 - AI • Computer Vision • Biomedical research
 
-- 🎓 MSc in Computer engineer at University of Parma and Paris-Saclay
-
 - 📫 use my [LinkedIn](https://it.linkedin.com/in/giuse-ricc)
 
 <h3 align="left">Languages and Tools:</h3>
